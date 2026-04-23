@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "fecha": "01-01-2026",
+        "tipo": "Ingreso",
+        "concepto": "n\u00f3mina",
+        "categoria": "n\u00f3mina",
+        "cantidad": 1800.0
+    },
+    {
+        "id": 2,
+        "fecha": "01-01-2026",
+        "tipo": "Gasto",
+        "concepto": "hipoteca",
+        "categoria": "prestamo",
+        "cantidad": 250.0
+    },
+    {
+        "id": 3,
+        "fecha": "01-01-2026",
+        "tipo": "Gasto",
+        "concepto": "cuota coche",
+        "categoria": "prestamo",
+        "cantidad": 250.0
+    },
+    {
+        "id": 4,
+        "fecha": "01-01-2026",
+        "tipo": "Gasto",
+        "concepto": "recibo luz",
+        "categoria": "suministros",
+        "cantidad": 75.0
+    },
+    {
+        "id": 5,
+        "fecha": "05-01-2026",
+        "tipo": "Gasto",
+        "concepto": "cuota internet y m\u00f3vil",
+        "categoria": "suministros",
+        "cantidad": 30.0
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "texto original": "En un lugar de la Ma...",
+        "resultados": {
+            "total_palabras": 34,
+            "palabra_mas_larga": "acordarme",
+            "promedio_longitud": 4.15
+        }
+    },
+    {
+        "texto original": "Aprender a programar...",
+        "resultados": {
+            "total_palabras": 12,
+            "palabra_mas_larga": "superpoder",
+            "promedio_longitud": 5.92
+        }
+    }
+]
